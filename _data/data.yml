@@ -145,17 +145,17 @@ projects:
 
 publications:
     title: Publications
-    text: |
+    intro: |
      Jun-uk Jung., Heung-Seon Oh., Seonho Kim. (2022). ”MLCC Lamination Alignment Inspection
      System using Deep Neural Network.”, Journal of Institute of Control, Robotics and Systems (in
      Korean). (accepted)
     
     
-    # papers:
-    #  - title: The Art of Computer Programming
-    #    link: "#"
-    #    authors: Donald E. Knuth
-    #    conference: Addison-Wesley, 1968
+    papers:
+     - title: The Art of Computer Programming
+       link: "#"
+       authors: Donald E. Knuth
+       conference: Addison-Wesley, 1968
 
     #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     #    link: "#"
