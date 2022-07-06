@@ -16,17 +16,17 @@ sidebar:
     # phone: 012 345 6789
     timezone:  Asia/Seoul Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: https://www.dicelab.kr/ #do not add http://
     linkedin: junuk-jung-90b902180
     # xing: alandoe
     github: Jung-Jun-Uk
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: https://scholar.google.com/citations?hl=ko&user=4FnfEzsAAAAJ&view_op=list_works&gmla=AJsN-F7PUpj4czs1xtBZyEf6gncokDDOoTV-RaDeK1qtsYTzNJFKTU0MMNPYhhMlQuezpQQlTXYKpM-nnCzWdnnEo5BVHZZeucmGfvxeD2UXFYatPDjW1_Q # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
