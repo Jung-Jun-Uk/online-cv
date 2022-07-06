@@ -16,7 +16,7 @@ sidebar:
     # phone: 012 345 6789
     timezone:  Asia/Seoul Timezone
     citizenship:
-    website: https://www.dicelab.kr/ #do not add http://
+    website: www.dicelab.kr #do not add http://
     linkedin: junuk-jung-90b902180
     # xing: alandoe
     github: Jung-Jun-Uk
@@ -149,7 +149,9 @@ publications:
      Jun-uk Jung., Heung-Seon Oh., Seonho Kim. (2022). ”MLCC Lamination Alignment Inspection
      System using Deep Neural Network.”, Journal of Institute of Control, Robotics and Systems (in
      Korean). (accepted)
-                    
+    
+    intro: |
+     ???
     # papers:
     #  - title: The Art of Computer Programming
     #    link: "#"
