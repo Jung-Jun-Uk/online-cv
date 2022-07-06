@@ -26,7 +26,7 @@ sidebar:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: https://scholar.google.com/citations?hl=ko&user=4FnfEzsAAAAJ&view_op=list_works&gmla=AJsN-F7PUpj4czs1xtBZyEf6gncokDDOoTV-RaDeK1qtsYTzNJFKTU0MMNPYhhMlQuezpQQlTXYKpM-nnCzWdnnEo5BVHZZeucmGfvxeD2UXFYatPDjW1_Q # Number-Username, e.g. 123456-alandoe
+    # goodreads: https://scholar.google.com/citations?hl=ko&user=4FnfEzsAAAAJ&view_op=list_works&gmla=AJsN-F7PUpj4czs1xtBZyEf6gncokDDOoTV-RaDeK1qtsYTzNJFKTU0MMNPYhhMlQuezpQQlTXYKpM-nnCzWdnnEo5BVHZZeucmGfvxeD2UXFYatPDjW1_Q # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -145,46 +145,11 @@ projects:
 
 publications:
     title: Publications
-    text: |
+    intro: |
      Jun-uk Jung., Heung-Seon Oh., Seonho Kim. (2022). ”MLCC Lamination Alignment Inspection
      System using Deep Neural Network.”, Journal of Institute of Control, Robotics and Systems (in
      Korean). (accepted)
-    
-    text: |
-     Seanhoon Lee, Jun-uk Jung., Heung-Seon Oh., Seonho Kim. (2022). ”A study on the development
-     of a system for monitoring quarantine rules using vision technology,” Journal of the Korea
-     Academia-Industrial cooperation Society (in Korean). (accepted)
-    
-    text: |
-     Jun-uk Jung, Seanhoon Lee., Heung-Seon Oh., Yongjun Park., Joo-Chan Park., Sung-bin Son.
-     (2022). Unified Negative Pair Generation toward Well-discriminative Feature Space for Face    
-     Recognition. arXiv preprint arXiv:2203.11593. (under review)
-    
-    text: |
-     Jun-uk Jung, Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon
-     Oh. (2021). MixFace: Improving Face Verification Focusing on Fine-grained Conditions. arXiv
-     preprint arXiv:2111.01717. (under review)
-    
-    text: |
-     Joo-Chan Park., Sung-bin Son., Seanhoon Lee., Jun-uk Jung, Yongjun Park., Heung-Seon Oh.
-     “Deep Ensemble based Object Detection from Aerial Images,” Journal of Institute of Control,
-     Robotics and Systems (in Korean), vol.27, no.12, pp.944-952, 2021.
-    
-    text: |
-     Sung-bin Son., Seanhoon Lee., Joo-Chan Park., Jun-uk Jung, Heung-Seon Oh. “Patch Image
-     Merge System using Deep Neural Network for Chip Defect Analysis,” Journal of Institute of
-     Control, Robotics and Systems (in Korean), vol.27, no.8, pp.528-534, 2021.
-    
-    text: |
-     Joo-Chan Park., Seanhoon Lee., Jun-uk Jung, Sung-bin Son., Heung-Seon Oh, Yu-chul Jung,
-     “Uncertainty-based Deep Object Detection from Aerial Images,” Journal of Institute of Control,
-     Robotics and Systems (in Korean), vol.26, no.11, pp.891-899, 2020
-    
-    text: |
-     Sung-Bin Son, Jun-Uk Jung, Heung-Seon Oh, Yu-chul Jung. DeepMask: Face Masking System
-     using Deep Neural Networks on Real-time Streaming.Journal of Institute of Control, Robotics
-     and Systems (in Korean), 26(6), 423-428, 2020.
-            
+                    
     # papers:
     #  - title: The Art of Computer Programming
     #    link: "#"
