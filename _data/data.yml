@@ -125,25 +125,25 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Self-supervised learning-based real-time MLCC alignment automatic inspection system development
+        time: Dec. 2021. - Aug. 2022.
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: 다중 CCTV를 이용한 감염병 대응 시스템 개발
+        time: Apr. 2021. - Dec. 2021.
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: 지능형 CCTV 시스템을 위한 인공지능 기반의 이벤트 탐지기 개발
+        time: Sep. 2020. - Jan. 2021.
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: 국가혁신클러스터사업 (R&D) 한국인 얼굴인식 기술 개발
+        time: Jan. 2019. - Dec. 2020.
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      
 publications:
     title: Publications
         
