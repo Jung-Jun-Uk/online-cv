@@ -121,11 +121,11 @@ publications:
        authors: Jun-uk Jung, Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
        conference: 2022 arXiv preprint (under review)
 
-     - title: "MixFace:" Improving Face Verification Focusing on Fine-grained Conditions
+     - title: MixFace Improving Face Verification Focusing on Fine-grained Conditions
        link: "#"
        authors: Jun-uk Jung, Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
        conference: 2021 arXiv preprint (under review)
-          
+
      - title: Deep Ensemble based Object Detection from Aerial Images
        link: "#"
        authors: Joo-Chan Park., Sung-bin Son., Seanhoon Lee., Jun-uk Jung, Yongjun Park., Heung-Seon Oh.
@@ -141,7 +141,7 @@ publications:
        authors: Joo-Chan Park., Seanhoon Lee., Jun-uk Jung, Sung-bin Son., Heung-Seon Oh, Yu-chul Jung.
        conference: Journal of Institute of Control, Robotics and Systems (in Korean), vol.26, no.11, pp.891-899, 2020
     
-     - title: "DeepMask:" Face Masking System using Deep Neural Networks on Real-time Streaming
+     - title: DeepMask Face Masking System using Deep Neural Networks on Real-time Streaming
        link: "#"
        authors: Sung-Bin Son, Jun-Uk Jung, Heung-Seon Oh, Yu-chul Jung.
        conference: Journal of Institute of Control, Robotics and Systems (in Korean), 26(6), 423-428, 2020.
