@@ -81,7 +81,7 @@ projects:
       - title: Self-supervised learning-based real-time MLCC alignment automatic inspection system development
         time: Dec. 2021. - Aug. 2022.
         link: "#hook"
-        tagline: "![ex_screenshot](./assets/images/img1.png) A responsive website template designed to help startups promote, market and sell their products."        
+        tagline: ![ex_screenshot](assets/images/img1.png) "A responsive website template designed to help startups promote, market and sell their products."        
 
       - title: 다중 CCTV를 이용한 감염병 대응 시스템 개발
         time: Apr. 2021. - Dec. 2021.
