@@ -49,37 +49,34 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: | 
-    
+     저는 한국기술교육대학교 DiceLab 에서 2년의 학부연구생과 2년의 석사생활을 했습니다. 메인 연구 분야는 Face Recognition, Image Retrieval, Person-re-Identification 등에 이용되는 
+     Metric Learning 계열의 유사도 최적화 문제이며 관련 task에서 상급 능력을 가지고 있습니다. 이외에도 Object detection, Segmentation, Action Recognition 등의 project 경험이 있습니다. 
+
 education:
     - degree: MSc in Computer Science
       university: KOREATECH
       time: Sep. 2020 - Aug. 2022
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
     - degree: BSc in Computer Science
       university: KOREATECH
       time: Mar. 2013 - Aug. 2020
+      
+experiences:
+    - role: 자가학습 기반 실시간 MLCC 적층 자동 검사 통합 시스템 개발
+      time: Dec. 2021. - Aug. 2022.
+      company: CoverWallet, an Aon Company      
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-
+        Top experiences:
+          - IT/Tech M&A integration responsible after the acquisition
+          - Platform Product strategy for growth
+          - Data-driven decision making culture
+          - Long-term strategy and budgeting
+          - DevEx, Security and Infra
+          - Engineering Leadership
+    
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        
     assignments:
       - title: Self-supervised learning-based real-time MLCC alignment automatic inspection system development
         time: Dec. 2021. - Aug. 2022.
