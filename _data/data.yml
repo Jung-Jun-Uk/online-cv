@@ -101,11 +101,7 @@ projects:
         time: Jan. 2019. - Dec. 2020.
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-<<<<<<< HEAD
 
-=======
-      
->>>>>>> 87e334641204d9c4781a19d240da28482c4bd1e9
 publications:
     title: Publications
         
@@ -121,12 +117,12 @@ publications:
        conference: Journal of the Korea Academia-Industrial cooperation Society. (accepted, camera-ready)
 
      - title: Unified Negative Pair Generation toward Well-discriminative Feature Space for Face Recognition
-       link: https://arxiv.org/abs/2203.11593
+       link: "#"
        authors: Jun-uk Jung, Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
        conference: 2022 arXiv preprint (under review)
 
      - title: "MixFace:" Improving Face Verification Focusing on Fine-grained Conditions
-       link: https://arxiv.org/abs/2111.01717
+       link: "#"
        authors: Jun-uk Jung, Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
        conference: 2021 arXiv preprint (under review)
           
