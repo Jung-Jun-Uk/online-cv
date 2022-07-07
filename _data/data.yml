@@ -25,8 +25,8 @@ sidebar:
     # bitbucket:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    # goodreads: 123456-alandoe
+    # codewars:
+    goodreads:
     googlescholar: 4FnfEzsAAAAJ
     pdf: http://www.africau.edu/images/default/sample.pdf
 
@@ -108,7 +108,7 @@ publications:
     papers:
      - title: MLCC Lamination Alignment Inspection System using Deep Neural Network
        link: "#"
-       authors: **Jun-uk Jung**., Hyun-Jae Kim., Heung-Seon Oh., Seonho Kim.
+       authors: Jun-uk Jung., Hyun-Jae Kim., Heung-Seon Oh., Seonho Kim.
        conference: Journal of Institute of Control, Robotics and Systems (in Korean). (accepted, camera-ready)
 
      - title: A study on the development of a system for monitoring quarantine rules using vision technology
@@ -117,32 +117,32 @@ publications:
        conference: Journal of the Korea Academia-Industrial cooperation Society. (accepted, camera-ready)
 
      - title: Unified Negative Pair Generation toward Well-discriminative Feature Space for Face Recognition
-       link: "#"
+       link: "https://arxiv.org/abs/2203.11593"
        authors: Jun-uk Jung, Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
        conference: 2022 arXiv preprint (under review)
 
      - title: MixFace Improving Face Verification Focusing on Fine-grained Conditions
-       link: "#"
+       link: "https://arxiv.org/abs/2111.01717"
        authors: Jun-uk Jung, Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
        conference: 2021 arXiv preprint (under review)
 
      - title: Deep Ensemble based Object Detection from Aerial Images
-       link: "#"
+       link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10671831&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true"
        authors: Joo-Chan Park., Sung-bin Son., Seanhoon Lee., Jun-uk Jung, Yongjun Park., Heung-Seon Oh.
        conference: Journal of Institute of Control, Robotics and Systems (in Korean), vol.27, no.12, pp.944-952, 2021.
      
      - title: Patch Image Merge System using Deep Neural Network for Chip Defect Analysis
-       link: "#"
+       link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10586055&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true"
        authors: Sung-bin Son., Seanhoon Lee., Joo-Chan Park., Jun-uk Jung, Heung-Seon Oh.
        conference: Journal of Institute of Control, Robotics and Systems (in Korean), vol.27, no.8, pp.528-534, 2021.
      
      - title: Uncertainty-based Deep Object Detection from Aerial Images
-       link: "#"
+       link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10485603&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true"
        authors: Joo-Chan Park., Seanhoon Lee., Jun-uk Jung, Sung-bin Son., Heung-Seon Oh, Yu-chul Jung.
        conference: Journal of Institute of Control, Robotics and Systems (in Korean), vol.26, no.11, pp.891-899, 2020
     
      - title: DeepMask Face Masking System using Deep Neural Networks on Real-time Streaming
-       link: "#"
+       link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09351471&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true"
        authors: Sung-Bin Son, Jun-Uk Jung, Heung-Seon Oh, Yu-chul Jung.
        conference: Journal of Institute of Control, Robotics and Systems (in Korean), 26(6), 423-428, 2020.
 
