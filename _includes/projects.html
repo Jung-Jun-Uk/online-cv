@@ -17,7 +17,7 @@
   {% endif %}
 
   {% for project in projects.assignments %}
-    <div class="item">
+    <!-- <div class="item">
         
     {% if project.img %}
     <img class="img" src="{{ site.baseurl }}/assets/images/{{ project.img }}" alt="profile picture"  style="display: block; margin: 0 auto; width:400px; height:200px;"/>
@@ -40,6 +40,15 @@
       {% endif %}
 
     </div><!--//item-->
+
+    {% if project.details %}
+    <div class="details">
+      {{ project.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  {% endif %}
+    </div>
   {% endfor %}
 
 </section><!--//section-->

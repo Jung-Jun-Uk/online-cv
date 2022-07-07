@@ -48,9 +48,8 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: | 
-     저는 한국기술교육대학교 DiceLab 에서 2년의 학부연구생과 2년의 석사생활을 했습니다. 메인 연구 분야는 Face Recognition, Image Retrieval, Person-re-Identification 등에 이용되는 
-     Metric Learning 계열의 유사도 최적화 문제이며 관련 task에서 상급 능력을 가지고 있습니다. 이외에도 Object detection, Segmentation, Action Recognition 등의 project 경험이 있습니다. 
+    summary: |      
+     
 
 education:
     - degree: MSc in Computer Science
@@ -60,43 +59,33 @@ education:
     - degree: BSc in Computer Science
       university: KOREATECH
       time: Mar. 2013 - Aug. 2020
-      
-experiences:
-    - role: 자가학습 기반 실시간 MLCC 적층 자동 검사 통합 시스템 개발
-      time: Dec. 2021. - Aug. 2022.
-      company: CoverWallet, an Aon Company      
-      details: |
-        Top experiences:
-          - IT/Tech M&A integration responsible after the acquisition
-          - Platform Product strategy for growth
-          - Data-driven decision making culture
-          - Long-term strategy and budgeting
-          - DevEx, Security and Infra
-          - Engineering Leadership
-    
+          
 projects:
     title: Projects
         
     assignments:      
-      - title: Self-supervised learning-based real-time MLCC alignment automatic inspection system development
-        img: img1.png
+      # - title: Self-supervised learning-based real-time MLCC alignment automatic inspection system development        
+      - title: 자가학습 기반 실시간 MLCC 적층 자동 검사 통합시스템 개발       
         # link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."        
-                        
+        tagline: ""        
+        details: |
+          - ICT 바우처 지원 사업, 과학기술정보통신부 (ICT), (주) 삼성기전
+          - Object Detection, Segmentation
+
       - title: 다중 CCTV를 이용한 감염병 대응 시스템 개발
         time: Apr. 2021. - Dec. 2021.
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: ""
+        
 
-      - title: 지능형 CCTV 시스템을 위한 인공지능 기반의 이벤트 탐지기 개발
-        time: Sep. 2020. - Jan. 2021.
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 지능형 CCTV 시스템을 위한 인공지능 기반의 이벤트 탐지기 개발        
+        # link: "#"
+        tagline: "CCTV로부터 싸움, 유기, 쓰러짐, 화재 4가지 이벤트 대한 이상 탐지기 개발 (Sep. 2020. - Jan. 2021.)"
 
       - title: 국가혁신클러스터사업 (R&D) 한국인 얼굴인식 기술 개발
-        time: Jan. 2019. - Dec. 2020.
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        # time: Jan. 2019. - Dec. 2020.
+        # link: "#"
+        tagline: "한국인 얼굴 검출 및 인식기 개발, 안드로이드 앱 데모 개발 (Jan. 2019. - Dec. 2020.)"
 
 publications:
     title: Publications
