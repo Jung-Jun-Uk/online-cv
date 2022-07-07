@@ -1,4 +1,4 @@
-#
+﻿#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -62,19 +62,19 @@ education:
           
 projects:
     title: Projects
-        
+      
     assignments:      
       # - title: Self-supervised learning-based real-time MLCC alignment automatic inspection system development        
       - title: 자가학습 기반 실시간 MLCC 적층 자동 검사 통합시스템 개발       
         # link: "#hook"
-        tagline: ""        
-        details: |
-          - ICT 바우처 지원 사업, 과학기술정보통신부 (ICT), (주) 삼성기전
+        tagline: "MLCC"        
+        details: | 
           - Object Detection, Segmentation
-
-      - title: 다중 CCTV를 이용한 감염병 대응 시스템 개발
-        time: Apr. 2021. - Dec. 2021.
-        link: "#"
+          - ICT 바우처 지원 사업, 과학기술정보통신부 (ICT), (주) 삼성기전
+          - 2021.12 - 2022.08
+        
+      - title: 다중 CCTV를 이용한 감염병 대응 시스템 개발        
+        # link: "#"
         tagline: ""
         
 
