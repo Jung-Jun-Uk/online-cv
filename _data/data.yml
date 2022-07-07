@@ -26,7 +26,8 @@ sidebar:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    # goodreads: https://scholar.google.com/citations?hl=ko&user=4FnfEzsAAAAJ&view_op=list_works&gmla=AJsN-F7PUpj4czs1xtBZyEf6gncokDDOoTV-RaDeK1qtsYTzNJFKTU0MMNPYhhMlQuezpQQlTXYKpM-nnCzWdnnEo5BVHZZeucmGfvxeD2UXFYatPDjW1_Q # Number-Username, e.g. 123456-alandoe
+    goodreads: 123456-alandoe
+    # https://scholar.google.com/citations?hl=ko&user=4FnfEzsAAAAJ&view_op=list_works&gmla=AJsN-F7PUpj4czs1xtBZyEf6gncokDDOoTV-RaDeK1qtsYTzNJFKTU0MMNPYhhMlQuezpQQlTXYKpM-nnCzWdnnEo5BVHZZeucmGfvxeD2UXFYatPDjW1_Q # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -180,23 +181,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Machine Learning (Deep Learning)
         level: 95%
 
-      - name: Ruby on Rails
+      - name: PyTorch
+        level: 95%
+
+      - name: Computer Vision
+        level: 90%
+
+      - name: Programming (Python)
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Programming (c, c++, CUDA)
+        level: 50%
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
