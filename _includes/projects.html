@@ -18,6 +18,14 @@
 
   {% for project in projects.assignments %}
     <div class="item">
+        
+    {% if project.img %}
+    <img class="img" src="{{ site.baseurl }}/assets/images/{{ project.img }}" alt="profile picture" />
+    {% endif %}
+    
+    </div><!--//item-->
+
+    <div class="item">
 
       <span class="project-title">
         {% if project.link %}
@@ -27,10 +35,6 @@
         {% endif %}
       </span>
       
-      {% if project.img %}
-      <img class="img" src="{{ site.baseurl }}/assets/images/{{ projects.img }}" alt="profile picture" />
-      {% endif %}
-
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
