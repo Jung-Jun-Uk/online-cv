@@ -26,6 +26,10 @@
         {{ project.title }}
         {% endif %}
       </span>
+      
+      {% if project.img %}
+      <img class="img" src="{{ site.baseurl }}/assets/images/{{ projects.img }}" alt="profile picture" />
+      {% endif %}
 
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
