@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar    
 
     # Profile information
     name: Jun-Uk Jung
@@ -26,8 +26,8 @@ sidebar:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: 123456-alandoe
-    # https://scholar.google.com/citations?hl=ko&user=4FnfEzsAAAAJ&view_op=list_works&gmla=AJsN-F7PUpj4czs1xtBZyEf6gncokDDOoTV-RaDeK1qtsYTzNJFKTU0MMNPYhhMlQuezpQQlTXYKpM-nnCzWdnnEo5BVHZZeucmGfvxeD2UXFYatPDjW1_Q # Number-Username, e.g. 123456-alandoe
+    # goodreads: 123456-alandoe
+    googlescholar: 4FnfEzsAAAAJ
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -183,7 +183,7 @@ publications:
        authors: Joo-Chan Park., Seanhoon Lee., Jun-uk Jung, Sung-bin Son., Heung-Seon Oh, Yu-chul Jung.
        conference: Journal of Institute of Control, Robotics and Systems (in Korean), vol.26, no.11, pp.891-899, 2020
     
-    
+
      - title: DeepMask: Face Masking System using Deep Neural Networks on Real-time Streaming
        link: "#"
        authors: Sung-Bin Son, Jun-Uk Jung, Heung-Seon Oh, Yu-chul Jung.
