@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Jun-Uk Jung
     tagline: AI Research Engineer 
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rnans33@gmail.com    
@@ -145,27 +145,36 @@ projects:
 
 publications:
     title: Publications
-    intro: |
+    details: |
      Jun-uk Jung., Heung-Seon Oh., Seonho Kim. (2022). ”MLCC Lamination Alignment Inspection
      System using Deep Neural Network.”, Journal of Institute of Control, Robotics and Systems (in
      Korean). (accepted)
     
+     Jun-uk Jung., Heung-Seon Oh., Seonho Kim. (2022). ”MLCC Lamination Alignment Inspection
+     System using Deep Neural Network.”, Journal of Institute of Control, Robotics and Systems (in
+     Korean). (accepted)
     
     papers:
-     - title: The Art of Computer Programming
+     - title: MLCC Lamination Alignment Inspection System using Deep Neural Network
        link: "#"
-       authors: Donald E. Knuth
-       conference: Addison-Wesley, 1968
+       authors: Jun-uk Jung., Hyun-Jae Kim., Heung-Seon Oh., Seonho Kim.
+       conference: Journal of Institute of Control, Robotics and Systems (in Korean). (accepted, camera-ready)
 
-    #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    #    link: "#"
-    #    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    #    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+     - title: A study on the development of a system for monitoring quarantine rules using vision technology
+       link: "#"
+       authors: Seanhoon Lee, Jun-uk Jung., Heung-Seon Oh., Seonho Kim.
+       conference: Journal of the Korea Academia-Industrial cooperation Society. (accepted, camera-ready)
 
-    #  - title: A syntax directed compiler for Algol 60
-    #    link: "#"
-    #    authors: Edgar T. Irons
-    #    conference: "Comm. ACM 4 (1961), 51–55"
+     - title: Unified Negative Pair Generation toward Well-discriminative Feature Space for Face Recognition
+       link: "#"
+       authors: Jun-uk Jung, Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
+       conference: 2022 arXiv preprint (under review)
+
+     - title: MixFace Improving Face Verification Focusing on Fine-grained Conditions
+       link: "#"
+       authors: Jun-uk Jung, Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
+       conference: 2021 arXiv preprint (under review)
+
 
 skills:
     title: Skills &amp; Proficiency
