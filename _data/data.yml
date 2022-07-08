@@ -97,7 +97,7 @@ projects:
           - Face Recognition, Face Detection
           - 라온솔루션
           - 2019.01 - 2020.12
-
+      
 publications:
     title: Publications
         
@@ -141,6 +141,9 @@ publications:
        link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09351471&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true"
        authors: Sung-Bin Son, Jun-Uk Jung, Heung-Seon Oh, Yu-chul Jung.
        conference: Journal of Institute of Control, Robotics and Systems (in Korean), 26(6), 423-428, 2020.
+
+publications:
+    title: Challenge
 
 skills:
     title: Skills &amp; Proficiency
