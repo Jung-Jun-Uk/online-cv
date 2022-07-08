@@ -1,0 +1,32 @@
+{% assign challenges = site.data.data.challenges %}
+{% if challenges %}
+<section class="section challenges-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ challenges.title }}
+  </h2>
+
+  {% if challenges.intro %}
+  <div class="intro">
+    {{ challenges.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for challenge in challenges.papers %}
+  <div class="item">
+    {% if challenge.link %}
+      <li><a href="{{ publication.link }}">{{ challenge.title }}</a></li>
+    {% else %}
+      <li>{{ challenge.title }}</li>
+    {% endif %}
+    <div class="publication-authors">{{ challenge.authors }}</div>
+    <div class="publication-conference">{{ challenge.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
