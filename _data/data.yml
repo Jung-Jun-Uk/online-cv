@@ -145,6 +145,14 @@ publications:
 challenges:
     title: challenge
 
+    papers:
+     - title: 코드 유사성 판단 AI 경진대회 (29위), DACON/AI프렌즈 (2021)
+     - title: Visual Question Answering Challenge, AWS, (2021)
+     - title: 아리랑 위성영상 AI 객체 검출 (2위), 한국항공우주연구원, (2020)
+     - title: 2020 AI Grand Challenge Track-1 (행동인지, 6위), 과학기술정보통신, (2020)
+     - title: 위성 이미지 객체 검출 (1위), 국방과학기술연구원 (2020)
+     - title: 2019 AI Grand Challenge Track-1 (상황인지, 17위), 과학기술정보통신, (2019)
+
 skills:
     title: Skills &amp; Proficiency
 
