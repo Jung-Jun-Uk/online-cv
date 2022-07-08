@@ -67,25 +67,36 @@ projects:
       # - title: Self-supervised learning-based real-time MLCC alignment automatic inspection system development        
       - title: 자가학습 기반 실시간 MLCC 적층 자동 검사 통합시스템 개발       
         # link: "#hook"
-        tagline: "MLCC"        
-        details: | 
+        tagline: "MLCC (Multi-Layer Ceramic Capacitor) 적층 이미지로 부터 유전체 영역 검출 후 마진 측정 및 양불 판정"                
+        details: |                                         
           - Object Detection, Segmentation
           - ICT 바우처 지원 사업, 과학기술정보통신부 (ICT), (주) 삼성기전
           - 2021.12 - 2022.08
         
       - title: 다중 CCTV를 이용한 감염병 대응 시스템 개발        
         # link: "#"
-        tagline: ""
-        
+        tagline: "COVID-19 와 같은 감염병 대응을 위해 마스크 착용 여부와 사회적 거리 측정을 통한 실시간 위험도 평가 및 방역대상 추적"
+        details: |           
+          - 3D Pedestrian Localization, Social Distance, Masked Face Detection, Object Tracking 
+          - ICT 바우처 지원 사업, 과학기술정보통신부 (ICT), (주) 삼성기전
+          - 2021.12 - 2022.08
 
-      - title: 지능형 CCTV 시스템을 위한 인공지능 기반의 이벤트 탐지기 개발        
+      - title: 지능형 CCTV 시스템을 위한 인공지능 기반의 이벤트 탐지기 개발
         # link: "#"
-        tagline: "CCTV로부터 싸움, 유기, 쓰러짐, 화재 4가지 이벤트 대한 이상 탐지기 개발 (Sep. 2020. - Jan. 2021.)"
+        tagline: "CCTV로부터 싸움, 유기, 쓰러짐, 화재 4가지 이벤트 대한 이상 탐지기 개발"
+        details: |           
+          - Action Recognition, Classification
+          - TNM Tech
+          - 2020.07 - 2021.01
 
       - title: 국가혁신클러스터사업 (R&D) 한국인 얼굴인식 기술 개발
         # time: Jan. 2019. - Dec. 2020.
         # link: "#"
-        tagline: "한국인 얼굴 검출 및 인식기 개발, 안드로이드 앱 데모 개발 (Jan. 2019. - Dec. 2020.)"
+        tagline: "한국인 얼굴 검출 및 인식기 개발, 안드로이드 앱 데모 개발"
+        details: |           
+          - Face Recognition, Face Detection
+          - 라온솔루션
+          - 2019.01 - 2020.12
 
 publications:
     title: Publications
