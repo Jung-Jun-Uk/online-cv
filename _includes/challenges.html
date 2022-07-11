@@ -19,12 +19,12 @@
   {% for challenge in challenges.papers %}
   <div class="item">
     {% if challenge.link %}
-      <li><a href="{{ publication.link }}">{{ challenge.title }}</a></li>
+      <li><a href="{{ challenge.link }}">{{ challenge.title }}</a></li>
     {% else %}
       <li>{{ challenge.title }}</li>
     {% endif %}
-    <div class="publication-authors">{{ challenge.authors }}</div>
-    <div class="publication-conference">{{ challenge.conference }}</div>
+    <div class="challenge-authors">{{ challenge.authors }}</div>
+    <div class="challenge-conference">{{ challenge.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
