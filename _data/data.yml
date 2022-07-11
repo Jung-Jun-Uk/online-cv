@@ -46,9 +46,9 @@ sidebar:
     #  - item: Cooking
     #    link:
 
-career-profile:
-    title: Career Profile
-    summary: |      
+# career-profile:
+#    title: Career Profile
+#    summary: |      
      
 
 education:
@@ -79,7 +79,7 @@ projects:
         details: |           
           - 3D Pedestrian Localization, Social Distance, Masked Face Detection, Object Tracking 
           - ICT 바우처 지원 사업, 과학기술정보통신부 (ICT), (주) 삼성기전
-          - 2021.12 - 2022.08
+          - 2021.04 - 2022.11
 
       - title: 지능형 CCTV 시스템을 위한 인공지능 기반의 이벤트 탐지기 개발
         # link: "#"
@@ -87,7 +87,7 @@ projects:
         details: |           
           - Action Recognition, Classification
           - TNM Tech
-          - 2020.07 - 2021.01
+          - 2020.09 - 2021.01
 
       - title: 국가혁신클러스터사업 (R&D) 한국인 얼굴인식 기술 개발
         # time: Jan. 2019. - Dec. 2020.
@@ -147,10 +147,15 @@ challenges:
 
     papers:
      - title: 코드 유사성 판단 AI 경진대회 (29위), DACON/AI프렌즈 (2021)
-     - title: Visual Question Answering Challenge, AWS, (2021)
+       link: "https://dacon.io/competitions/official/235900/overview/description"
+     - title: Visual Question Answering Challenge (12위), AWS, (2021)
+       link: "https://visualqa.org/roe.html"
      - title: 아리랑 위성영상 AI 객체 검출 (2위), 한국항공우주연구원, (2020)
+       link: "https://dacon.io/competitions/official/235644/overview/description"
      - title: 2020 AI Grand Challenge Track-1 (행동인지, 6위), 과학기술정보통신, (2020)
+       link: "https://aihub.or.kr/problem_contest/5063"
      - title: 위성 이미지 객체 검출 (1위), 국방과학기술연구원 (2020)
+       link: "https://dacon.io/competitions/official/235492/overview/description"
      - title: 2019 AI Grand Challenge Track-1 (상황인지, 17위), 과학기술정보통신, (2019)
 
 skills:
@@ -158,13 +163,13 @@ skills:
 
     toolset:
       - name: Machine Learning (Deep Learning)
-        level: 95%
+        level: 90%
 
       - name: PyTorch
-        level: 95%
+        level: 90%
 
       - name: Computer Vision
-        level: 90%
+        level: 85%
 
       - name: Programming (Python)
         level: 85%
