@@ -66,7 +66,7 @@ projects:
     assignments:      
       # - title: Self-supervised learning-based real-time MLCC alignment automatic inspection system development        
       - title: 자가학습 기반 실시간 MLCC 적층 자동 검사 통합시스템 개발       
-        img: img1.png 
+        # img: img1.png 
         # link: "#hook"
         tagline: "MLCC (Multi-Layer Ceramic Capacitor) 적층 이미지로 부터 유전체 영역 검출 후 마진 측정 및 양불 판정"                
         details: |                                         
@@ -164,7 +164,9 @@ awords:
 
     papers:      
       - title: 아리랑 위성영상 AI 객체 검출 2위, 한국항공우주연구원장상 수상 (2020)
+        link: "https://github.com/Jung-Jun-Uk/online-cv/assets/images/arirang_challenge.jpg"        
       - title: 위성이미지 객체 검출 경진대회 1위, 방위사업청장상 수상 (2020)
+        link: "https://github.com/Jung-Jun-Uk/online-cv/assets/images/EO_challenge.jpg"
 
 patents:
     title: patents
