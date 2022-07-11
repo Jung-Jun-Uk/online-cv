@@ -66,6 +66,7 @@ projects:
     assignments:      
       # - title: Self-supervised learning-based real-time MLCC alignment automatic inspection system development        
       - title: 자가학습 기반 실시간 MLCC 적층 자동 검사 통합시스템 개발       
+        img: img1.png 
         # link: "#hook"
         tagline: "MLCC (Multi-Layer Ceramic Capacitor) 적층 이미지로 부터 유전체 영역 검출 후 마진 측정 및 양불 판정"                
         details: |                                         
