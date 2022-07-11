@@ -46,9 +46,10 @@ sidebar:
     #  - item: Cooking
     #    link:
 
-# career-profile:
-#    title: Career Profile
-#    summary: |      
+career-profile:
+  title: Research Interests
+  summary: | 
+   Metric Learning, Face Recognition, Image Retrieval, Object Detection, Image Segmentation, Action Recognition
      
 
 education:
