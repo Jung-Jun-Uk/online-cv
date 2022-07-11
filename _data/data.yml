@@ -71,7 +71,7 @@ projects:
         # link: "#hook"
         tagline: "MLCC (Multi-Layer Ceramic Capacitor) 적층 이미지로 부터 유전체 영역 검출 후 마진 측정 및 양불 판정"                
         details: |   
-          - ![ex_screenshot](assets/images/img1.png)                                   
+          - <img src="assets/images/img1.png" alt="profile picture"  style="display: block; margin: 0 auto; max-width: 75%;"/>                                   
           - Object Detection, Segmentation
           - ICT 바우처 지원 사업, 과학기술정보통신부 (ICT), (주) 삼성기전
           - 2021.12 - 2022.08
