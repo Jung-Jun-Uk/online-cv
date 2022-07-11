@@ -104,17 +104,17 @@ publications:
     papers:
      - title: MLCC Lamination Alignment Inspection System using Deep Neural Network
        link: "#"
-       authors: "**Jun-uk Jung**.", Hyun-Jae Kim., Heung-Seon Oh., Seonho Kim.
+       authors: "**Jun-uk Jung**., Hyun-Jae Kim., Heung-Seon Oh., Seonho Kim."
        conference: Journal of Institute of Control, Robotics and Systems (in Korean). (accepted, camera-ready)
 
      - title: A study on the development of a system for monitoring quarantine rules using vision technology
        link: "#"
-       authors: Seanhoon Lee, "**Jun-uk Jung**.", Heung-Seon Oh., Seonho Kim.
+       authors: "Seanhoon Lee, **Jun-uk Jung**., Heung-Seon Oh., Seonho Kim."
        conference: Journal of the Korea Academia-Industrial cooperation Society. (accepted, camera-ready)
 
      - title: Unified Negative Pair Generation toward Well-discriminative Feature Space for Face Recognition
        link: https://arxiv.org/abs/2203.11593
-       authors: "**Jun-uk Jung**.", Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
+       authors: "**Jun-uk Jung**., Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh."
        conference: 2022 arXiv preprint (under review)
 
      - title: MixFace Improving Face Verification Focusing on Fine-grained Conditions
