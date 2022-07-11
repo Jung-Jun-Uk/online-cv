@@ -49,7 +49,13 @@ sidebar:
 career-profile:
   title: Research Interests
   summary: |    
-   Metric Learning, Face Recognition, Image Retrieval, Object Detection, Image Segmentation, Action Recognition
+   - Metric Learning
+   - Face Recognition
+   - Image Retrieval 
+   - Object Detection
+   - Image Segmentation   
+   - Action Recognition
+   - Pose Estimation
      
 
 education:
