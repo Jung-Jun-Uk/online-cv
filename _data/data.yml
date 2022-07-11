@@ -139,7 +139,7 @@ publications:
     
      - title: DeepMask Face Masking System using Deep Neural Networks on Real-time Streaming
        link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09351471&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true"
-       authors: Sung-Bin Son, Jun-Uk Jung, Heung-Seon Oh, Yu-chul Jung.
+       authors: Sung-Bin Son, **Jun-Uk Jung**, Heung-Seon Oh, Yu-chul Jung.
        conference: Journal of Institute of Control, Robotics and Systems (in Korean), 26(6), 423-428, 2020.
 
 challenges:
