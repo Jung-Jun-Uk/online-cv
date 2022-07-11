@@ -88,8 +88,7 @@ projects:
       - title: 지능형 CCTV 시스템을 위한 인공지능 기반의 이벤트 탐지기 개발
         # link: "#"
         tagline: "CCTV로부터 싸움, 유기, 쓰러짐, 화재 4가지 이벤트 대한 이상 탐지기 개발"
-        details: |     
-          - <img src="assets/images/monitoring.png" alt="profile picture"  style="display: block; margin: 0 auto; max-width: 75%;"/>      
+        details: |                
           - Action Recognition, Classification
           - TNM Tech
           - 2020.09 - 2021.01
@@ -99,7 +98,7 @@ projects:
         # link: "#"
         tagline: "한국인 얼굴 검출 및 인식기 개발, 안드로이드 앱 데모 개발"
         details: | 
-          - <img src="assets/images/kface_project.png" alt="profile picture"  style="display: block; margin: 0 auto; max-width: 75%;"/>          
+          - <img src="assets/images/kface_pj.png" alt="profile picture"  style="display: block; margin: 0 auto; max-width: 75%;"/>          
           - Face Recognition, Face Detection
           - 라온솔루션
           - 2019.01 - 2020.12
