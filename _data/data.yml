@@ -104,7 +104,7 @@ publications:
     papers:
      - title: MLCC Lamination Alignment Inspection System using Deep Neural Network
        link: "#"
-       authors: "**Jun-uk Jung**.", Hyun-Jae Kim., Heung-Seon Oh., Seonho Kim.
+       authors: **Jun-uk Jung**., Hyun-Jae Kim., Heung-Seon Oh., Seonho Kim."
        conference: Journal of Institute of Control, Robotics and Systems (in Korean). (accepted, camera-ready)
 
      - title: A study on the development of a system for monitoring quarantine rules using vision technology
@@ -119,7 +119,7 @@ publications:
 
      - title: MixFace Improving Face Verification Focusing on Fine-grained Conditions
        link: "https://arxiv.org/abs/2111.01717"
-       authors:"**Jun-uk Jung**.", Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
+       authors: "**Jun-uk Jung**.", Sung-bin Son., Joo-Chan Park., Yongjun Park., Seanhoon Lee., Heung-Seon Oh.
        conference: 2021 arXiv preprint (under review)
 
      - title: Deep Ensemble based Object Detection from Aerial Images
