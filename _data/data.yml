@@ -173,7 +173,7 @@ patents:
 
     papers:
       - title: 얼굴 인식에 기반한 실시간 얼굴 마스킹 시스템 및 이를 이용한 실시간 얼굴 마스킹 방법 (10-2277929-0000)
-      - link: "http://kportal.kipris.or.kr/kportal/search/total_search.do"
+        link: "http://kportal.kipris.or.kr/kportal/search/total_search.do"
         
 skills:
     title: Skills &amp; Proficiency
