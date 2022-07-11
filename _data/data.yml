@@ -86,7 +86,7 @@ projects:
         # link: "#"
         tagline: "COVID-19 와 같은 감염병 대응을 위해 마스크 착용 여부와 사회적 거리 측정을 통한 실시간 위험도 평가 및 방역대상 추적"
         details: |     
-          - <img src="assets/images/monitoring.png" alt="profile picture"  style="display: block; margin: 0 auto; max-width: 75%;"/>      
+          - <img src="assets/images/monitoring.png" alt="profile picture" onclick="window.open(this.src)" style="display: block; margin: 0 auto; max-width: 75%;"/>      
           - 3D Pedestrian Localization, Social Distance, Masked Face Detection, Object Tracking 
           - 한국과학기술연구원 (KIST)
           - 2021.04 - 2022.11
