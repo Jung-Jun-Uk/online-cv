@@ -164,15 +164,16 @@ awords:
 
     papers:      
       - title: 아리랑 위성영상 AI 객체 검출 2위, 한국항공우주연구원장상 수상 (2020)
-        link: "https://github.com/Jung-Jun-Uk/online-cv/assets/images/arirang_challenge.jpg"        
+        link: "https://github.com/Jung-Jun-Uk/online-cv/blob/master/assets/images/arirang_challenge.jpg"        
       - title: 위성이미지 객체 검출 경진대회 1위, 방위사업청장상 수상 (2020)
-        link: "https://github.com/Jung-Jun-Uk/online-cv/assets/images/EO_challenge.jpg"
+        link: "https://github.com/Jung-Jun-Uk/online-cv/blob/master/assets/images/EO_challenge.jpg"
 
 patents:
     title: patents
 
     papers:
       - title: 얼굴 인식에 기반한 실시간 얼굴 마스킹 시스템 및 이를 이용한 실시간 얼굴 마스킹 방법 (10-2277929-0000)
+      - link: "http://kportal.kipris.or.kr/kportal/search/total_search.do"
         
 skills:
     title: Skills &amp; Proficiency
