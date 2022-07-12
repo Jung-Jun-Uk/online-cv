@@ -55,7 +55,7 @@ career-profile:
    - Object Detection
    - Image Segmentation   
    - Action Recognition
-   - Pose Estimation
+   - Pose Estimation  
      
 
 education:
@@ -115,7 +115,7 @@ publications:
     papers:
      - title: MLCC Lamination Alignment Inspection System using Deep Neural Network
        link: "#"
-       authors: "**Jun-uk Jung**., Hyun-Jae Kim., Heung-Seon Oh., Seonho Kim."
+       authors: "**Jun-uk Jung**., Hyun-Jae Kim., Sung-bin Son., Heung-Seon Oh."
        conference: Journal of Institute of Control, Robotics and Systems (in Korean). (accepted, camera-ready)
 
      - title: A study on the development of a system for monitoring quarantine rules using vision technology
